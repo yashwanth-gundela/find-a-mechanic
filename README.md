@@ -20,3 +20,5 @@ Calendar Management: Implemented the core functionality of the calendar system, 
 Technology Stack: Leveraged a tech stack comprising PHP, HTML, CSS, and JavaScript for web development. Utilized Git for version control and deployed the application on AWS for scalability and reliability.
 
 Additional Work: Contributed to other modules, wrote comprehensive documentation, and resolved existing bugs to ensure a smooth user experience.
+
+--YASHWANTH GUNDELA
